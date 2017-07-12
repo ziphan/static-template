@@ -1,0 +1,19 @@
+{
+  "name": "staticTemplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.3.4"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-copy": "^1.0.0",
+    "gulp-file-include": "^1.1.0"
+  }
+}
